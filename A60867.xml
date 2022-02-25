@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some succinct remarks on the speech of the late Lord Russel to the sheriffs together with the paper deliver'd by him to them, at the place of execution on July 21, 1683.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60867</idno>
+            <idno type="STC">Wing S4620</idno>
+            <idno type="STC">ESTC R37577</idno>
+            <idno type="EEBO-CITATION">16976077</idno>
+            <idno type="OCLC">ocm 16976077</idno>
+            <idno type="VID">105589</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105589)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1159:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some succinct remarks on the speech of the late Lord Russel to the sheriffs together with the paper deliver'd by him to them, at the place of execution on July 21, 1683.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Russell, William, --  Lord, 1639-1683.</term>
+               <term>Rye House Plot, 1683.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:105589:1"/>
+            <pb n="1" facs="tcp:105589:1" rendition="simple:additions"/>
+            <head>SOME SUCCINCT REMARKS ON THE SPEECH OF THE Late Lord RUSSEL, To the SHERIFFS: Together with the PAPER deliver'd by him to them, at the Place of Execution, on <hi>July</hi> 21. 1683.</head>
+            <p>
+               <hi>HORA MORTIS,</hi> has been ever look'd upon as <hi>HORA VERACITATIS:</hi> And though Men may dare it out with <hi>Impudence,</hi> and atteſt their <hi>Innocen<g ref="char:EOLhyphen"/>cy</hi> with all the <hi>Aſſeverations</hi> imagi<g ref="char:EOLhyphen"/>nable, yet when this <hi>Terrible of Ter<g ref="char:EOLhyphen"/>ribles</hi> draws near, when this <hi>Hour</hi> that launches a Man into the <hi>Ocean</hi> of <hi>Eternity,</hi> from <hi>whence</hi> he muſt never return; I ſay, <hi>when</hi> this ap<g ref="char:EOLhyphen"/>proaches, it might be rationally ſup<g ref="char:EOLhyphen"/>poſed, <hi>That no Man will then cheat his Soul of an Eternal Being, by horrid and damnable Equivocations.</hi> Yet though this has been held as an undoubted <hi>Maxim,</hi> ſuch has been the practice of our <hi>Modern Traytors,</hi> (particularly our <hi>Noble Lord</hi>) that we may certainly infer, That as the preſent Age tranſcends all that has been hitherto in <hi>Treaſons, Rebellions, Villanies,</hi> &amp;c. and nothing of that priſtine <hi>Veracity</hi> and <hi>Ingenuity,</hi> is to be found in our <hi>Modern Times:</hi> So likewiſe the preſent <hi>Traytors</hi> are re<g ref="char:EOLhyphen"/>ſolv'd to excel all their Fore-runners in that which they call <hi>Valour,</hi> but we may ſafely term it <hi>Impudence</hi> at this final hour; and think by their pre<g ref="char:EOLhyphen"/>tended Bravery, to create a Disbelief of thoſe helliſh Crimes of which they are accuſed. But alas! they are miſtaken, they do but gull and cheat their <hi>Immortal Souls</hi> of that <hi>Felicity</hi> which they might have capacitated themſelves for, by a free and <hi>ingenu<g ref="char:EOLhyphen"/>ous Confeſſion:</hi> For I dare aver, That if all the <hi>Jeſuits</hi> in <hi>Europe</hi> had laid their heads together to ſtuff a Libel
+<pb n="2" facs="tcp:105589:2"/>with <hi>Equivocations, Tricks, and Eva<g ref="char:EOLhyphen"/>ſions,</hi> they would all have come ſhort of the SPEECH emitted into the World by our <hi>Proteſtant-Jeſuite</hi> the Lord <hi>Ruſſel.</hi>
+            </p>
+            <p>
+               <hi>Tantum Religio potuit ſuadere malo<g ref="char:EOLhyphen"/>rum.</hi>
+            </p>
+            <p>☞ <hi>Swear, and Forſwear, But the Great SECRET to reveal, Forbear.</hi>
+            </p>
+            <p>I am ſorry I am confined to ſuch narrow Limits, that I might have <hi>diſ<g ref="char:EOLhyphen"/>ſected</hi> and <hi>anatomiz'd</hi> this <hi>Epitome</hi> of <hi>Hell,</hi> and ſhew'd at large what Tricks, <hi>&amp;c.</hi> a <hi>True-Proteſtant Lord</hi> could be guilty of at this very dreadful Hour, to ſave his Party from the Appella<g ref="char:EOLhyphen"/>tion of <hi>Traytors,</hi> and ſome of his <hi>True Aſſociates</hi> from the <hi>Gallows,</hi> not<g ref="char:EOLhyphen"/>withſtanding his <hi>Lordſhips Abhorrence</hi> of ſuch Actions in the whole courſe of his Life: However, I ſhall take notice of the moſt material Paſſages which lie heavy on his <hi>Lordſhip,</hi> and which, no doubt, were patched up for no other End, but to ſtifle this <hi>Horrid Plot,</hi> and to hinder its Authors and Abettors from being brought to <hi>Ex<g ref="char:EOLhyphen"/>emplary Puniſhment.</hi>
+            </p>
+            <p>But to deſcend to Particulars, his Lordſhip is pleaſed to begin thus:</p>
+            <p>
+               <hi>[I have ſet down in this Paper all that I think fit to leave behind me.]</hi>
+            </p>
+            <p>No doubt but his Lordſhip had a due regard to his <hi>Cauſe,</hi> and thoſe that were to continue it, and there<g ref="char:EOLhyphen"/>fore <hi>thought it not fit</hi> to leave any thing behind him, that might diſcover either of them, but to wrap it up in ſuch ambiguous terms as might not be underſtood; wherein his Lordſhip at once would make us believe, that he would have us underſtand him, and yet at the ſame time would not, other<g ref="char:EOLhyphen"/>wiſe (but that he is made up with <hi>Equivocations</hi>) why did not his Lord<g ref="char:EOLhyphen"/>ſhip deal ſincerely and plainly, and add, <hi>That it was all he knew:</hi> But, it ſeems, he was reſolved to wrong his Soul, rather than his Party, by diſ<g ref="char:EOLhyphen"/>covering them.</p>
+            <p>His Lordſhip proceeds, and ſays:</p>
+            <p>
+               <hi>[God knows how far I was always from Deſigns againſt the King's Perſon, or of altering the Government.]</hi>
+            </p>
+            <p>This is a pretty way of Appealing; for certainly God knows how far he was for Deſigns againſt the King as from them, and ſo muſt his Lordſhips Conſcience too; but he was afraid his Conſcience would be too plain, and therefore left that Point as ſoon as he had begun it.</p>
+            <p>
+               <hi>[To my knowledge, I never ſaw Captain</hi> Walcot <hi>in my life.]</hi>
+            </p>
+            <p>That may be, and yet both deep in the Plot too, according to their Spheres, his Lordſhip, poſſibly, being of a higher Club than the Captain was; for we are told of ſeveral Ca<g ref="char:EOLhyphen"/>bals.</p>
+            <p>
+               <hi>[I bleſs God that I was born of worthy good Parents, and had the advantages of a Religious Education, which gave me checks,</hi> &amp;c.]</p>
+            <p>The greater the Perſon, the greater the Crime; and he has no reaſon to brag of his Religious Education, ſince he made ſuch ill uſes of it, which was no wonder that it give him ſo many <hi>Checks,</hi> for acting ſuch horrid Crimes that were directly againſt it.</p>
+            <p>
+               <hi>[I have lived, and now dye of the Reformed Religion, a true and ſincere Proteſtant, and in the Communion of the Church of</hi> England, <hi>though I could never yet comply with, or riſe up to all the heights of many People.]</hi>
+            </p>
+            <pb n="3" facs="tcp:105589:2"/>
+            <p>His Lordſhip muſt certainly equi<g ref="char:EOLhyphen"/>vocate here, in his meaning of a Church, for the Church of <hi>England</hi> (according to the common accepta<g ref="char:EOLhyphen"/>tion of it) never allowed ſuch Practi<g ref="char:EOLhyphen"/>ſes: And though he would fain ſigna<g ref="char:EOLhyphen"/>lize it with ſuch a Member, yet he muſt have a <hi>Reſervation;</hi> for that diſovvns all <hi>Equivocation,</hi> and allows <hi>Salvation</hi> for none under his Lord<g ref="char:EOLhyphen"/>ſhips Circumſtances, that deal not ſincerely in their laſt hour, and make a plain and full Confeſſion of all he knows; which his Lordſhip reſolves againſt, as inconſiſtent with the ad<g ref="char:EOLhyphen"/>vantage of his <hi>Reformed Traytors.</hi>
+            </p>
+            <p>
+               <hi>[I think Bitterneſs and Perſecu<g ref="char:EOLhyphen"/>tion are bad at all times, much more now.]</hi>
+            </p>
+            <p>No doubt but his Lordſhip would have them go on without Controll, and not have his Saints perſecuted NOW, though 'tis evident to the World, that they are the very Source and Fountain of Treaſons, Rebellions, <hi>&amp;c.</hi> but yet, forſooth, they muſt not be perſecuted.</p>
+            <p>
+               <hi>[For the King, I do ſincerely pray for Him, and wiſh well to Him, and to the Nation, that they may be happy in one another, and that he may be in<g ref="char:EOLhyphen"/>deed the Defender of the Faith.]</hi>
+            </p>
+            <p>Here his Lordſhip is pleaſed to lend the King a Box on the Ear on one ſide, and endeavour to hold Him up on the other; I would fain know what he means by <hi>indeed,</hi> he muſt certainly inſinuate, that He is nothing at pre<g ref="char:EOLhyphen"/>ſent but an <hi>Hypocrite,</hi> and pretends one thing, and means another; but his Lordſhips <hi>Defender of the Faith in<g ref="char:EOLhyphen"/>deed,</hi> muſt certainly be one that would ſuffer his own Throat to be cut, and ſay nothing: And that would ſee his Kingdom invaded, and all his Loyal Subjects deſtroyed, to make way for ſuch Blood-thirſty Miſ<g ref="char:EOLhyphen"/>creants: But we now well know, that a <hi>Whig</hi> is that ſort of <hi>Animal,</hi> that admires nothing, and praiſes none, or at leaſt but ſlightly, and that not without ſome pity of his defects and wants; but he, forſooth, has all that every Man has, and all that eve<g ref="char:EOLhyphen"/>ry Man wants too: So that what's the meaning of this Religious and dying Speech, but a ſcandalous Libel on the King and Government.</p>
+            <p>
+               <hi>[I did believe, and do ſtill, that Popery is breaking in upon the Nation; and that thoſe who advance it, will ſtop at nothing to carry on their De<g ref="char:EOLhyphen"/>ſign: I am heartily ſorry that ſo ma<g ref="char:EOLhyphen"/>ny Proteſtants give their helping Hand to it.]</hi>
+            </p>
+            <p>This is the old Bugbear, <hi>Popery, Slavery,</hi> and <hi>Arbitrary Government,</hi> have been ever the pretenſions of their Fears and Jealouſies; <hi>Metuere falli, &amp; meruere falli: He deſerves to be deceived, that too much fears it,</hi> has been ever a politick Maxim; for certainly it is one of the greateſt Follies in the World, to make the World wiſer than it is; and to ſuſpect a Plot and Mine in every Molehill; and 'tis a Hell above-ground, to be al<g ref="char:EOLhyphen"/>ways dying, for fear of dying. And I am of the Opinion of the learned Lord <hi>Bacon,</hi> that notwithſtanding his Lordſhips fear of <hi>Popery,</hi> if ever that Religion come in, (which God for<g ref="char:EOLhyphen"/>bid) it will be through the ſides of <hi>Jack Presbyter:</hi> And that his Proſe<g ref="char:EOLhyphen"/>lytes that ſo much advance it now, will ſtick at no means to effect it, I am of his Lordſhips opinion. As for his Lordſhips ſorrow for ſo many <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> being in it, it's plain that there are none elſe but his Lordſhips <hi>Coventry-Blue-Proteſtants</hi> concerned, and therefore 'tis fear'd that his ſor<g ref="char:EOLhyphen"/>row was more for their being found in it, than not in.</p>
+            <p>The next is one of the ſame ſtamp, for ſpeaking of the <hi>Bill of Excluſion,</hi> he ſays:</p>
+            <p>
+               <hi>[As to the Limitations that were
+<pb n="4" facs="tcp:105589:3" rendition="simple:additions"/>propoſed, if they were ſincerely offered,</hi> &amp;c.]</p>
+            <p>Here he as much queſtions the S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>cerity of the King in the management of His Affars, as he did before of His being <hi>the Defender of the Faith in<g ref="char:EOLhyphen"/>deed:</hi> So that this good Lord, at the very inſtant of his going out of the World, the beſt word that he can give the King, (and indeed 'tis no Wonder, ſince he has endeavour'd to do much worſe) is to Libel Him with the moſt ſcandalous Reflection that was ever ſaid by Malice it ſelf.</p>
+            <p>Speaking of the Crime for which he was condemned, he ſays:</p>
+            <p>
+               <hi>[That there was ſome diſcourſe of the feaſibleneſs of it,</hi> (i.e. <hi>ſeizing the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rds) and that at the Lord</hi> Shafiſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>'s, <hi>there was ſome general diſ<g ref="char:EOLhyphen"/>courſe of it, but he did abhor it; That the Duke of</hi> Monmouth <hi>told him he was glad he was come to Town, for the Earl of</hi> Shaftsbury <hi>and ſome hot Men would undo us all, for they'll do ſome diſorderly thing, if care be not taken; That he was at</hi> Shepheard's, <hi>where many things were ſaid with more Heat than Judgment, which he did diſapprove; but all this was but Miſpriſion at moſt.]</hi>
+            </p>
+            <p>Certainly his Lordſhip forgot what he ſaid before, he then knew of no <hi>Plot</hi> or <hi>Deſign,</hi> but here he hears it debated; he owns a diſcourſe of the <hi>feaſibleneſs of it,</hi> yet knows nothing of the <hi>matter,</hi> this muſt be as great as ever any <hi>Salamanca-Miracle</hi> prov'd. There was ſome diſorderly thing to be committed, does his <hi>Abhorrence</hi> in<g ref="char:EOLhyphen"/>timate his <hi>Ignorance,</hi> no ſure, but <hi>Guilt;</hi> for his <hi>Abhorrence</hi> muſt preſup<g ref="char:EOLhyphen"/>poſe his <hi>Knowledge</hi> of it.</p>
+            <p>The next is the greateſt piece of <hi>Jeſuitiſm</hi> that ever was hatched:</p>
+            <p>
+               <hi>[Some infer</hi> (ſays he) <hi>that I was acquainted with theſe Heats and ill Deſigns, but this is but Miſpriſion.]</hi>
+            </p>
+            <p>And a very natural Inference, but pray what's the meaning of your <hi>Heats</hi> and <hi>ill Deſigns?</hi> his Lordſhip fear'd to be too <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain, and yet ſomething he muſt ſay to baffle Conſcience, <hi>O Tem<g ref="char:EOLhyphen"/>pora! O Mores!</hi>
+            </p>
+            <p>Reader, <hi>If thou art not ſurfeited with unparallel'd Lyes and Equivoca<g ref="char:EOLhyphen"/>tions, (though his Lordſhip would make us believe he ever abhor'd them) I could enumerate much more, but this may ſuffice, to ſhew that a</hi> True Pro<g ref="char:EOLhyphen"/>teſtant Lord <hi>can, upon occaſion, ven<g ref="char:EOLhyphen"/>ture the Eternal Loſs of his Soul, to hinder the Diſcovery of a beloved Plot ſo long in hatching, and the bringing to condign puniſhment his true Friends the</hi> Aſſociators.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom</hi> in <hi>Thames-ſtreet</hi> over againſt <hi>Baynards-Caſtle.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
